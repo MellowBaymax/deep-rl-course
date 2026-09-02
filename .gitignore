@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Pytest
+.pytest_cache/
+
+# Mypy / coverage
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
